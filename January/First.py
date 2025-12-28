@@ -1,1 +1,0 @@
-print("Hello, I'm Thulasiraman. Here i'll share my journey into programming.")
